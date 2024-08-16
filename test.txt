@@ -1,0 +1,4 @@
+__label__positive This movie is great!
+__label__positive The acting is superb and the story is compelling.
+__label__negative I really didn't like this movie.
+__label__negative The plot is confusing and the characters are unlikable.
